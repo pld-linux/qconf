@@ -1,5 +1,5 @@
 Summary:	qconf - configuring qmake-based project
-Summary(pl.UTF-8):   qconf - konfiguracja dla projektów opartych o qmake
+Summary(pl.UTF-8):	qconf - konfiguracja dla projektów opartych o qmake
 Name:		qconf
 Version:	1.2
 Release:	0.cvs.11072005.1
