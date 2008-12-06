@@ -1,11 +1,12 @@
 Summary:	qconf - configuring qmake-based project
 Summary(pl.UTF-8):	qconf - konfiguracja dla projektów opartych o qmake
 Name:		qconf
-Version:	1.2
-Release:	0.cvs.11072005.1
+Version:	1.4
+Release:	1
 License:	GPL
 Group:		Development/Building
-Source0:	%{name}-%{version}.tgz
+Source0:	http://delta.affinix.com/download/%{name}-%{version}.tar.bz2
+# Source0-md5:	e0080044f88c31e032008d5a5682a112
 URL:		http://delta.affinix.com/qconf/
 BuildRequires:	QtCore-devel
 BuildRequires:	qmake
